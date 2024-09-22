@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @brivan1
-- 👀 I’m interested in creativity;comic to cool illustrations, animations, NFTs and webpage programming.
-- 🌱 I’m currently learning web development with javascript and software engineering[ALX]
+- 👀 I’m interested in advancing basic tech skills to a proficient standard.
+- 🌱 I’m currently learning web development with javascript and software engineering[ALX Africa]
 - 💞️ I’m looking to collaborate on number 3
 - 📫 How to reach me: instagram: @rayano_rio; facebook:rayano de rio; twitter:@bkrayano;
 
